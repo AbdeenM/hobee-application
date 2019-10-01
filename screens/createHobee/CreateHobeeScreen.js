@@ -103,15 +103,15 @@ class CreateHobeeScreen extends React.Component {
 	_createHobee = async () => {
 		this.setState({ uploading: true });
 		// Get location details
-		// const result = await Axios.get(`https://maps.googleapis.com/maps/api/place/details/json?key=${Config.G_MAPS_API}&placeid=${this.state.placeId}&fields=formatted_address,geometry`);
+		const result = await Axios.get(`https://maps.googleapis.com/maps/api/place/details/json?key=${Config.G_MAPS_API}&placeid=${this.state.placeId}&fields=formatted_address,geometry`);
 
-		// this.setState({
-		// 	location: {
-		// 		address: result.data.result.formatted_address,
-		// 		latitude: result.data.result.geometry.location.lat,
-		// 		longitude: result.data.result.geometry.location.lng
-		// 	}
-		// });
+		this.setState({
+			location: {
+				address: result.data.result.formatted_address,
+				latitude: result.data.result.geometry.location.lat,
+				longitude: result.data.result.geometry.location.lng
+			}
+		});
 
 		if (this.state.title.length < 6) {
 			this.setState({ uploading: false });
