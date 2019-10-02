@@ -52,3 +52,19 @@ git clone https://github.com/AbdeenM/hobee-application.git
 Once you have the project files downloaded navigate to where the `package.json` file is in your directory and run `npm install` or `yarn install` depending on what you have as a package manager.
 
 ## Getting Started
+
+0. Setup [Hobee Server](https://github.com/AbdeenM/hobee-backend/).
+1. Modify `constants/Config.js` with your details respectively.
+2. Run `expo start` on the project root directory.
+3. Download the Expo app depending on your smart phone and Scan the QR code to open the application on your device.
+4. Now sit back relax and enjoy exploring the application!
+
+## Contributing
+
+Pull requests are welocme. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
