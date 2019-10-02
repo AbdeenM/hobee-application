@@ -70,5 +70,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-**Hobee** © 2018+, Released under the **[MIT License](https://choosealicense.com/licenses/mit/)**
-Authored and mainted by **[Abdeen Mohamed](https://github.com/AbdeenM)**
+**Hobee** © 2018+, Released under the **[MIT License](http://mit-license.org/)**
+Authored and maintained by **[Abdeen Mohamed](https://github.com/AbdeenM)**
