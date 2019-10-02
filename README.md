@@ -34,7 +34,6 @@ Users can view activties through searching, browsing or looking around the map.
 ## Prerequisites
 
 * [Hobee Backend Server](https://github.com/AbdeenM/hobee-backend/) (Required, this is your Hobee application server, daa!)
-* [Node](https://nodejs.org/) v10.16.0 (it is recommended to install it via [NVM](https://github.com/creationix/nvm/))
 * [NPM](https://npmjs.com/) or [Yarn](https://https://yarnpkg.com/)
 * A development enviroment setup with React Native and Expo, you can follow [these instructions](https://docs.expo.io/versions/v35.0.0/introduction/installation/) (Required as project core)
 * Google Maps Api key, you can follow [these instructions](https://developers.google.com/maps/documentation/javascript/get-api-key/) (Optional, for map to work)
