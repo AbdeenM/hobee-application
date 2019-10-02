@@ -46,7 +46,7 @@ Note: AWS is currently commented out to activate it have an amazon bucket setup 
 
 ## Installation
 
-Following this assumes you have everything setup, to install the project either download the .zip file and extract or navigate to an empty directory and clone this repo:
+Moving Forward this assumes you have everything setup, to install the project either download the .zip file and extract or navigate to an empty directory and clone this repo:
 ```bash
 git clone https://github.com/AbdeenM/hobee-application.git
 ```
