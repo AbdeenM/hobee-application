@@ -1,11 +1,12 @@
 # Hobbe Application [iOS/Android]
 
-[![React Native](https://img.shields.io/badge/React%20Native-v0.57.8-blue.svg)](https://facebook.github.io/react-native/)
-[![Expo](https://img.shields.io/badge/Expo-SDK35.0.0-black.svg)](https://expo.io/)
-[![React Redux V6](https://img.shields.io/badge/Redux-v6.0.1-purple.svg)](https://react-redux.js.org/)
-[![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.4.1-blue.svg)](https://reactnavigation.org/)
-[![Amazon AWS](https://img.shields.io/badge/amazonaws-v3.4.1-blue.svg)](https://aws.amazon.com/)
-[![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg)](https://socket.io/)
+[![Status](https://travis-ci.org/rstacruz/hicat.svg?branch=master)](https://github.com/AbdeenM/hobee-application)
+[![React Native](https://img.shields.io/badge/React%20Native-v0.57.8-blue.svg?logo=react)](https://facebook.github.io/react-native/)
+[![Expo](https://img.shields.io/badge/Expo-SDK35.0.0-black.svg?logo=expo)](https://expo.io/)
+[![React Redux V6](https://img.shields.io/badge/Redux-v6.0.1-purple.svg?logo=redux)](https://react-redux.js.org/)
+[![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.4.1-blue.svg?logo=react)](https://reactnavigation.org/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-v3.4.1-blue.svg?logo=amazonaws)](https://aws.amazon.com/)
+[![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg?logo=socket.io)](https://socket.io/)
 
 <p align="center" >
    <a href="https://github.com/AbdeenM/hobee-application/blob/master/screenshots/application.gif">
