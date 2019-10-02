@@ -17,6 +17,8 @@
 Hobee Application is a social networking application, users can create/join activites and events they are intrested in around there area.
 Users can view activties through searching, browsing or looking around the map.
 
+**You can see each image on this gif from the `sreenshots` directory.**
+
 ## Features
 
 * [React Navigation](https://reactnavigation.org/)
