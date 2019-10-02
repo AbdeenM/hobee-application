@@ -1,4 +1,4 @@
-# Hobbe Application [iOS/Android]
+# Hobee Application [iOS/Android]
 
 [![Status](https://travis-ci.org/rstacruz/hicat.svg?branch=master)](https://github.com/AbdeenM/hobee-application)
 [![React Native](https://img.shields.io/badge/React%20Native-v0.57.8-blue.svg?logo=react)](https://facebook.github.io/react-native/)
