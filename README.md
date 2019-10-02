@@ -21,12 +21,13 @@ Users can view activties through searching, browsing or looking around the map.
 
 * [React Navigation](https://reactnavigation.org/)
 * [Redux](https://redux.js.org/)
+* [Socket IO](https://socket.io/)
 * [Redux Thunk](https://github.com/reduxjs/redux-thunk/)
 * [React Native Maps](https://github.com/react-native-community/react-native-maps/)
+* [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat/)
 * [React Native Elements](https://react-native-training.github.io/react-native-elements/)
 * [Lottie React Native](https://github.com/react-community/lottie-react-native/)
 * [MomentJs](https://momentjs.com/)
-* [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat/)
 * [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons/)
 
 ... and many more, check the package.json file for all the libraries used.
