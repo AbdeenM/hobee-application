@@ -41,7 +41,7 @@ Users can view activties through searching, browsing or looking around the map.
 * Google Clients Id, you can follow [these instructions](https://docs.expo.io/versions/v35.0.0/sdk/google/) (Optional, for google login to work)
 * Amazon AWS Account with S3 access rights, you can follow [these instructions](https://aws.amazon.com/s3/getting-started/) (Optional, to save images in your AWS Server)
 
-**Note: AWS is currently commented out to activate it have an amazon bucket setup with the right permissions and edit `screens/createHobee/CreateHobeeScreen.js` and uncomment `line 142` to `line 165`**
+Note: AWS is currently commented out to activate it have an amazon bucket setup with the right permissions and edit `screens/createHobee/CreateHobeeScreen.js` and uncomment `line 142` to `line 165`
 
 ## Installation
 
