@@ -1,6 +1,6 @@
 # Hobee Application [iOS/Android]
 
-[![Status](https://travis-ci.org/rstacruz/hicat.svg?branch=master)](https://github.com/AbdeenM/hobee-application)
+[![Status](https://img.shields.io/badge/build-passing-green.svg?branch=master)](https://github.com/AbdeenM/hobee-application)
 [![React Native](https://img.shields.io/badge/React%20Native-v0.57.8-blue.svg?logo=react)](https://facebook.github.io/react-native/)
 [![Expo](https://img.shields.io/badge/Expo-SDK35.0.0-black.svg?logo=expo)](https://expo.io/)
 [![React Redux V6](https://img.shields.io/badge/Redux-v6.0.1-purple.svg?logo=redux)](https://react-redux.js.org/)
