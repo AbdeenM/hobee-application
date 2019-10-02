@@ -41,7 +41,7 @@ Users can view activties through searching, browsing or looking around the map.
 * Google Clients Id, you can follow [these instructions](https://docs.expo.io/versions/v35.0.0/sdk/google/) (Optional, for google login to work)
 * Amazon AWS Account with S3 access rights, you can follow [these instructions](https://aws.amazon.com/s3/getting-started/) (Optional, to save images in your AWS Server)
 
-#### Note: AWS is currently commented out to activate it have an amazon bucket setup with the right permissions and edit `screens/createHobee/CreateHobeeScreet.js` and uncomment `line 142` to `line 165`
+**Note: AWS is currently commented out to activate it have an amazon bucket setup with the right permissions and edit `screens/createHobee/CreateHobeeScreen.js` and uncomment `line 142` to `line 165`**
 
 ## Installation
 
@@ -59,12 +59,16 @@ Once you have the project files downloaded navigate to where the `package.json` 
 3. Download the Expo app depending on your smart phone and Scan the QR code to open the application on your device.
 4. Now sit back relax and enjoy exploring the application!
 
+## Project Status
+
+This project has great potential for improvements, currently i wont be updating or modifying it due to time shortage but feel free to contribute!
+
 ## Contributing
 
 Pull requests are welocme. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
-
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+**Hobee** © 2018+, Released under the [MIT License](https://choosealicense.com/licenses/mit/)
+Authored and mainted by **[Abdeen Mohamed](https://github.com/AbdeenM)**
