@@ -69,11 +69,11 @@ class CreateHobeeScreen extends React.Component {
 
 		//Hobee data
 		location: {
-			address: 'Ozone, Khartoum, Sudan',
-			latitude: '15.5852321',
-			longitude: '32.5354796'
+			address: '',
+			latitude: '',
+			longitude: ''
 		},
-		avatar: 'https://picsum.photos/400/300',
+		avatar: '',
 		title: '',
 		description: '',
 		notes: '',
