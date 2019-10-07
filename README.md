@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/AbdeenM/hobee-application/blob/master/assets/icon.png) Hobee Application [iOS/Android]
+# ![alt text](https://github.com/AbdeenM/hobee-application/blob/master/icon.png) Hobee Application [iOS/Android]
 
 [![Status](https://img.shields.io/badge/build-passing-green.svg?branch=master)](https://github.com/AbdeenM/hobee-application)
 [![React Native](https://img.shields.io/badge/React%20Native-v0.57.8-blue.svg?logo=react)](https://facebook.github.io/react-native/)
