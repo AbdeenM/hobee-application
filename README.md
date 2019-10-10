@@ -9,7 +9,7 @@
 [![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg?logo=socket.io)](https://socket.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](http://mit-license.org/)
 
-<p align="center" >
+<p align="center">
    <a href="https://github.com/AbdeenM/hobee-application/blob/master/screenshots/application.gif">
     <img alt="hobee-application" src="https://github.com/AbdeenM/hobee-application/blob/master/screenshots/application.gif" />
  </a>
