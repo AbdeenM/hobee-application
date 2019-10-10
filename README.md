@@ -7,6 +7,7 @@
 [![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.4.1-blue.svg?logo=react)](https://reactnavigation.org/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-v3.4.1-blue.svg?logo=amazon-aws)](https://aws.amazon.com/)
 [![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg?logo=socket.io)](https://socket.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](http://mit-license.org/)
 
 <p align="center" >
    <a href="https://github.com/AbdeenM/hobee-application/blob/master/screenshots/application.gif">
