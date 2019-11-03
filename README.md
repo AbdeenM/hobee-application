@@ -33,7 +33,7 @@ Users can view activties through searching, browsing or looking around the map.
 * [MomentJs](https://momentjs.com/)
 * [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons/)
 
-... and many more, check the package.json file for all the libraries used.
+... and many more, check the `package.json` file for all the libraries used.
 
 ## Prerequisites
 
