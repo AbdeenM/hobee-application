@@ -1,30 +1,93 @@
 {
-  "expo": {
-    "name": "Hobee",
-    "slug": "Hobee",
-    "description": "Hobee up with people of the same interest",
-    "privacy": "public",
-    "sdkVersion": "35.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#212121"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
-  }
+	"expo": {
+		"name": "Hobee",
+		"description": "Hobee helps you meet up and connect with people of the same interest and share the same interests",
+		"slug": "hobee-application",
+		"owner": "Abdeen Mohamed",
+		"privacy": "public",
+		"sdkVersion": "35.0.0",
+		"version": "1.0.0",
+		"platforms": [
+			"ios",
+			"android",
+			"web"
+		],
+		"orientation": "portrait",
+		"primaryColor": "#212121",
+		"icon": "./assets/icon.png",
+		"facebookAppId": "YOUR_FACEBOOK_APP_ID",
+		"facebookDisplayName": "Daba Services",
+		"facebookScheme": "YOUR_FACEBOOK_APP_SCHEME",
+		"assetBundlePatterns": [
+			"**/*"
+		],
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "cover",
+			"backgroundColor": "#212121"
+		},
+		"notification": {
+			"icon": "./assets/icon-notification.png",
+			"color": "#212121",
+			"iosDisplayInForeground": false,
+			"androidMode": "collapse",
+			"androidCollapsedTitle": "Hobee Notifications"
+		},
+		"updates": {
+			"enabled": true,
+			"checkAutomatically": "ON_LOAD",
+			"fallbackToCacheTimeout": 5000
+		},
+		"ios": {
+			"bundleIdentifier": "mephisto.hobee.application",
+			"buildNumber": "1.0.001",
+			"icon": "./assets/icon.png",
+			"appStoreUrl": "",
+			"supportsTablet": true,
+			"requireFullScreen": false,
+			"isTabletOnly": false,
+			"config": {
+				"googleMapsApiKey": "YOUR_GOOGLE_MAPS_API_KEY",
+				"googleSignIn": {
+					"reservedClientId": "YOUR_GOOGLE_CLIENT_ID"
+				}
+			},
+			"splash": {
+				"backgroundColor": "#212121",
+				"resizeMode": "cover",
+				"image": "./assets/splash.png",
+				"tabletImage": "./assets/splash.png",
+				"userInterfaceStyle": "automatic"
+			}
+		},
+		"android": {
+			"package": "mephisto.hobee.application",
+			"versionCode": 10001,
+			"icon": "./assets/icon.png",
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/icon.png",
+				"backgroundColor": "#549FFC"
+			},
+			"playStoreUrl": "",
+			"googleServicesFile": "./google-services.json",
+			"config": {
+				"googleMaps": {
+					"apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+				},
+				"googleSignIn": {
+					"apiKey": "YOUR_GOOGLE_API_KEY",
+					"certificateHash": "YOUR_HASH_KEY"
+				}
+			},
+			"splash": {
+				"backgroundColor": "#212121",
+				"resizeMode": "cover",
+				"mdpi": "./assets/splash.png",
+				"hdpi": "./assets/splash.png",
+				"xhdpi": "./assets/splash.png",
+				"xxhdpi": "./assets/splash.png",
+				"xxxhdpi": "./assets/splash.png"
+			}
+		}
+	}
 }
