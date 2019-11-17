@@ -76,8 +76,8 @@
 		"babel-preset-expo": "^5.0.0",
 		"redux-logger": "^3.0.6"
 	},
-    "engines": {
-        "npm": ">= 3.0.0"
-    },
+	"engines": {
+		"npm": ">= 3.0.0"
+	},
 	"private": false
 }
