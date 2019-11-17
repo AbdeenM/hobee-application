@@ -1,10 +1,44 @@
 {
+	"name": "hobee-application",
+	"version": "1.0.0",
+	"description": "Hobee helps you meet up and connect with people of the same interest and share the same interests",
+	"keywords": [
+		"ios",
+		"expo",
+		"Hobee",
+		"react",
+		"hybrid",
+		"social",
+		"android",
+		"react-native"
+	],
+	"homepage": "https://github.com/AbdeenM/hobee-application",
+	"bugs": {
+		"email": "abdeen.mohamed@outlook.com",
+		"url": "https://github.com/AbdeenM/hobee-application/issues"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Abdeen Mohamed",
+		"url": "https://github.com/AbdeenM",
+		"email": "abdeen.mohamed@outlook.com"
+	},
 	"main": "node_modules/expo/AppEntry.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AbdeenM/hobee-application"
+	},
 	"scripts": {
+		"fresh": "expo start -c",
 		"start": "expo start",
 		"android": "expo start --android",
 		"ios": "expo start --ios",
-		"eject": "expo eject"
+		"web": "expo start --web",
+		"eject": "expo eject",
+		"test": "jest --watchAll"
+	},
+	"jest": {
+		"preset": "jest-expo"
 	},
 	"dependencies": {
 		"axios": "^0.18.0",
@@ -42,5 +76,5 @@
 		"babel-preset-expo": "^5.0.0",
 		"redux-logger": "^3.0.6"
 	},
-	"private": true
+	"private": false
 }
