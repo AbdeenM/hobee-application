@@ -16,7 +16,7 @@ const middlewares = [
 	thunk
 ]
 
-if (process.env.NODE_ENV !== 'production') {
+if (__DEV__) {
 	middlewares.push(createLogger());
 }
 
